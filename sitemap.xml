@@ -4,27 +4,32 @@
   
   <url>
     <loc>https://fchicken77.github.io/series/hugo/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fchicken77.github.io/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fchicken77.github.io/posts/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fchicken77.github.io/series/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fchicken77.github.io/posts/test/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fchicken77.github.io/series/theme/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,11 +98,6 @@
   </url>
   
   <url>
-    <loc>https://fchicken77.github.io/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fchicken77.github.io/posts/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -142,6 +142,10 @@
   </url>
   
   <url>
+    <loc>https://fchicken77.github.io/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://fchicken77.github.io/contact/</loc>
   </url>
   
@@ -167,10 +171,6 @@
   
   <url>
     <loc>https://fchicken77.github.io/snippets/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fchicken77.github.io/about/</loc>
   </url>
   
 </urlset>
